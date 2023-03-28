@@ -22,7 +22,7 @@ const data = [
   },
   {
     id: 4,
-    name: "Sean Walsh",
+    name: 'Sean Walsh',
     age: 34,
     image:
       "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg",
