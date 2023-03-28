@@ -10,7 +10,7 @@ function App() {
 
   return (
     <main>
-      <section className="container">
+      <section className='container'>
         <h3>{people.length} birthdays today</h3>
         <List people={people} />
         {people.length === 0 ? null : (
