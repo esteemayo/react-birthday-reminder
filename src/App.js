@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-import data from 'birthDayService';
+import data from 'data';
 import List from 'components/List';
 
 import './App.css';
